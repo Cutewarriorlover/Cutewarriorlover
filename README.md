@@ -48,6 +48,10 @@
 
 ## Coding Stats:
 <!--START_SECTION:waka-->
+```text
+Markdown   10 mins         ███████████████████░░░░░░   76.29 % 
+YAML       3 mins          ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+```
 <!--END_SECTION:waka-->
 
 ## Programming Languages I Use In Priority Order:
