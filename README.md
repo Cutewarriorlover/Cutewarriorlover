@@ -50,5 +50,9 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+## Programming Languages I Use In Priority Order:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cutewarriorlover)
+
 ## GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cutewarriorlover&show_icons=true&theme=tokyonight)
