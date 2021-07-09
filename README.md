@@ -49,8 +49,11 @@
 ## Coding Stats:
 <!--START_SECTION:waka-->
 ```text
-Markdown   10 mins         ███████████████████░░░░░░   76.29 % 
-YAML       3 mins          ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+Python             1 hr 58 mins    ██████████████▓░░░░░░░░░░   58.90 % 
+Markdown           30 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Makefile           14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+C#                 12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+reStructuredText   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 ```
 <!--END_SECTION:waka-->
 
