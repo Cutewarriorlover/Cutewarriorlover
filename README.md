@@ -49,11 +49,11 @@
 ## Coding Stats:
 <!--START_SECTION:waka-->
 ```text
-Python             1 hr 58 mins    ██████████████▓░░░░░░░░░░   58.90 % 
-Markdown           30 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Makefile           14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-C#                 12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-reStructuredText   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Python             5 hrs 44 mins   ████████████████▓░░░░░░░░   67.01 % 
+Markdown           39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+C#                 30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Makefile           16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+reStructuredText   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 ```
 <!--END_SECTION:waka-->
 
