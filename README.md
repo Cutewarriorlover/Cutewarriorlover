@@ -49,11 +49,11 @@
 ## Coding Stats:
 <!--START_SECTION:waka-->
 ```text
-SCSS         3 hrs 36 mins   ██████████░░░░░░░░░░░░░░░   40.54 % 
-TypeScript   3 hrs 12 mins   █████████░░░░░░░░░░░░░░░░   36.01 % 
-Markdown     54 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-YAML         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-JavaScript   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+TypeScript   1 hr 59 mins    ████████▓░░░░░░░░░░░░░░░░   34.58 % 
+SCSS         1 hr 48 mins    ███████▓░░░░░░░░░░░░░░░░░   31.20 % 
+Markdown     54 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+YAML         25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+JavaScript   22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 ```
 <!--END_SECTION:waka-->
 
