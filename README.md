@@ -49,10 +49,7 @@
 ## Coding Stats:
 <!--START_SECTION:waka-->
 ```text
-Markdown     49 mins         █████████▒░░░░░░░░░░░░░░░   36.76 % 
-SCSS         39 mins         ███████▒░░░░░░░░░░░░░░░░░   29.42 % 
-YAML         25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.60 % 
-TypeScript   20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
