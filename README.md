@@ -49,7 +49,10 @@
 ## Coding Stats:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   1 hr 8 mins     █████████░░░░░░░░░░░░░░░░   36.51 % 
+HTML         41 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.91 % 
+JSON         39 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.84 % 
+SCSS         36 mins         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
 ```
 <!--END_SECTION:waka-->
 
