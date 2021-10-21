@@ -49,7 +49,7 @@
 ## Coding Stats:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSON         1 min           █████████████████▒░░░░░░░   69.60 % 
 ```
 <!--END_SECTION:waka-->
 
