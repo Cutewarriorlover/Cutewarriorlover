@@ -49,10 +49,10 @@
 ## Coding Stats:
 <!--START_SECTION:waka-->
 ```text
-TypeScript   2 hrs 13 mins   ███████████████████▓░░░░░   79.20 % 
-JavaScript   23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-CSS          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+TypeScript   2 hrs 23 mins   █████████████████████▓░░░   86.04 % 
+JavaScript   14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+CSS          6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 <!--END_SECTION:waka-->
 
