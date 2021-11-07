@@ -49,7 +49,8 @@
 ## Coding Stats:
 <!--START_SECTION:waka-->
 ```text
-TypeScript   9 mins          █████████████████████████   100.00 % 
+TypeScript   37 mins         ████████████████████████░   96.09 % 
+JavaScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 ```
 <!--END_SECTION:waka-->
 
