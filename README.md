@@ -8,7 +8,7 @@
 - :mailbox: You can email me at [**cutewarriorlover@gmail.com**](mailto:cutewarriorlover@gmail.com)
 - :point_right: Pronouns: **He**, **Him**, **WarriorX**, **Warrior**
 
-## Programming Languages:
+## Used Programming Languages:
 
 &nbsp;&nbsp;&nbsp;&nbsp;[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&labelColor=black)](https://www.ecma-international.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;[![TypeScript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org/)
@@ -43,7 +43,7 @@ JavaScript   2 mins          ██░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-## Programming Languages I Use In Priority Order:
+## Programming Languages:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Warrior-X)
 
