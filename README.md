@@ -1,17 +1,14 @@
-# <img src="./assets/gifs/waving-hand.gif" width="34px"> Hi! I'm Cutewarriorlover!
+# <img src="./assets/gifs/waving-hand.gif" width="34px"> Hi! I'm WarriorX!
 
 ## :mailbox: Contact me!
 
-![Discord Badge](https://img.shields.io/badge/Discord-Cutewarriorlover%236792-blue) [![Mail Badge](https://img.shields.io/badge/-Cutewarriorlover-c0392b?logo=gmail&logoColor=white&labelColor=c0392)](mailto:cutewarriorlover@gmail.com)
+![Discord Badge](https://img.shields.io/badge/Discord-WarriorX%236792-blue) [![Mail Badge](https://img.shields.io/badge/-Cutewarriorlover-c0392b?logo=gmail&logoColor=white&labelColor=c0392)](mailto:cutewarriorlover@gmail.com)
 
-- :video_game: I'm currently **working on an RPG game**
-- :thinking: I'm looking for help with **Unity**
-- :computer: My favorite programming language is [**Python**](https://python.org)
+- :computer: My favorite web programming language is [**TypeScript**](http://typescriptlang.org)
 - :mailbox: You can email me at [**cutewarriorlover@gmail.com**](mailto:cutewarriorlover@gmail.com)
-- :point_right: Pronouns: **He**, **Him**, **Cutewarriorlover**, **Warrior**
+- :point_right: Pronouns: **He**, **Him**, **WarriorX**, **Warrior**
 
 ## Programming Languages:
-&nbsp;&nbsp;&nbsp;&nbsp;[![Python Badge](https://img.shields.io/badge/-Python-4b8bbe?style=for-the-badge&logo=Python&labelColor=black)](https://python.org)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&labelColor=black)](https://www.ecma-international.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;[![TypeScript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org/)
@@ -20,31 +17,23 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=3C873A)](https://www.w3.org/Style/CSS/Overview.en.html)
 &nbsp;&nbsp;&nbsp;&nbsp;[![SCSS Badge](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=3C873A)](https://sass-lang.com)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[![Java Badge](https://img.shields.io/badge/-Java-5382a1?style=for-the-badge&logo=Java&labelColor=black)](https://www.java.com/)
-
-&nbsp;&nbsp;&nbsp;&nbsp;[![C# Badge](https://img.shields.io/badge/-C%23-blue?style=for-the-badge&logo=CSharp&labelColor=black)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-
-&nbsp;&nbsp;&nbsp;&nbsp;[![Dart Badge](https://img.shields.io/badge/-Dart-0175c2?style=for-the-badge&logo=Dart&labelColor=black)](https://dart.dev/)
-
-## Web Frameworks:
-&nbsp;&nbsp;&nbsp;&nbsp;[![ExpressJS Badge](https://img.shields.io/badge/-ExpressJS-black?style=for-the-badge&logo=Express&labelColor=black)](http://expressjs.com/)
-&nbsp;&nbsp;&nbsp;&nbsp;[![GulpJS Badge](https://img.shields.io/badge/-GulpJS-%2CF4647?style=for-the-badge&logo=gulp&labelColor=black)](https://gulpjs.com/)
+## Frameworks & Libraries:
+&nbsp;&nbsp;&nbsp;&nbsp;[![ElectronJS Badge](https://img.shields.io/badge/-ElectronJS-%2347848F?style=for-the-badge&logo=Electron&labelColor=black)](http://electronjs.org/)
+&nbsp;&nbsp;&nbsp;&nbsp;[![ReactJS Badge](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=React&labelColor=black)](http://reactjs.org/)
 
 ## IDE and Code Editors:
 &nbsp;&nbsp;&nbsp;&nbsp;[![VSCode Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&labelColor=black)](https://code.visualstudio.com/)
-&nbsp;&nbsp;&nbsp;&nbsp;[![PyCharm Badge](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=PyCharm&labelColor=black)](https://www.jetbrains.com/idea/)
-&nbsp;&nbsp;&nbsp;&nbsp;[![IntelliJ Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=IntelliJ-IDEA&labelColor=black)](https://www.jetbrains.com/pycharm/)
-&nbsp;&nbsp;&nbsp;&nbsp;[![Rider Badge](https://img.shields.io/badge/-Rider-black?style=for-the-badge&logo=Rider&labelColor=black)](https://www.jetbrains.com/rider/)
+&nbsp;&nbsp;&nbsp;&nbsp;[![WebStorm Badge](https://img.shields.io/badge/-WebStorm-black?style=for-the-badge&logo=WebStorm&labelColor=black)](https://www.jetbrains.com/webstorm/)
 
 ## Other:
-&nbsp;&nbsp;&nbsp;&nbsp;[![Unity Badge](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=Unity&labelColor=black)](https://unity.com/)
 &nbsp;&nbsp;&nbsp;&nbsp;[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&labelColor=black)](http://git-scm.com/)
 &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&labelColor=black)](https://github.com/)
 &nbsp;&nbsp;&nbsp;&nbsp;[![Postgres Badge](https://img.shields.io/badge/-PostGreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&labelColor=black)](https://www.postgresql.org/)
-&nbsp;&nbsp;&nbsp;&nbsp;[![Bash Badge](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&labelColor=black)](https://www.postgresql.org/)
+&nbsp;&nbsp;&nbsp;&nbsp;[![Bash Badge](https://img.shields.io/badge/-Bash-%234EAA25?style=for-the-badge&logo=GNU-Bash&labelColor=black)](https://www.p/)
+&nbsp;&nbsp;&nbsp;&nbsp;[![Starship Badge](https://img.shields.io/badge/-Starship-%23DD0B78?style=for-the-badge&logo=Starship&labelColor=black)](https://starship.rs/)
 
 ## Profile Visits:
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Cutewarriorlover.Cutewarriorlover)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Warrior-X.Warrior-X)
 
 ## Coding Stats:
 <!--START_SECTION:waka-->
@@ -56,7 +45,7 @@ JavaScript   2 mins          ██░░░░░░░░░░░░░░░
 
 ## Programming Languages I Use In Priority Order:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Cutewarriorlover)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Warrior-X)
 
 ## GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cutewarriorlover&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Warrior-X&show_icons=true&theme=tokyonight)
