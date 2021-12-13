@@ -38,7 +38,8 @@
 ## Coding Stats:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   11 mins         ██████████████████░░░░░░░   71.74 % 
+YAML       4 mins          ███████░░░░░░░░░░░░░░░░░░   28.26 % 
 ```
 <!--END_SECTION:waka-->
 
